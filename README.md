@@ -1,3 +1,3 @@
 # twittercloneapp
 
-![GitHub Logo](./src/assets/img/twitterclone.gif)
+<img src="./src/assets/img/twitterclone.gif" width="150" height="250"/>
